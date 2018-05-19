@@ -10,7 +10,7 @@
 		<artifactId>spring-boot-dependencies</artifactId>
 		<version>1.5.7.RELEASE</version>
 	</parent>
-	
+
 	<developers>
 		<developer>
 			<id>wesley</id>
